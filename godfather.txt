@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Keep your enemies close, but your friends distant.
-=======
-KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
->>>>>>> 7880ef1 (Change godfather.txt in feature-rename-files branch)
+Keep your friends close, but your enemies closer.
